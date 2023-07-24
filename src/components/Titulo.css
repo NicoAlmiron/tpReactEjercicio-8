@@ -1,0 +1,5 @@
+.colorFondo {
+    background: rgb(1, 137, 158);
+    background: linear-gradient( 3deg, rgba(1, 137, 158, 1) 0%, rgba(172, 179, 252, 1) 70%);
+    background-size: cover;
+}

@@ -1,0 +1,9 @@
+body {
+    background: rgb(93, 91, 91);
+    background: linear-gradient( 27deg, rgba(93, 91, 91, 1) 20%, rgba(47, 124, 131, 1) 64%);
+    background-attachment: fixed;
+}
+
+.mainPage {
+    flex-grow: 1;
+}
